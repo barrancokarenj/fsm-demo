@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "fsm-shell": "^1.19.0"
+  }
+}
